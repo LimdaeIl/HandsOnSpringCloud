@@ -35,6 +35,4 @@ public class AuthService {
         .compact();
 
   }
-
-
 }
